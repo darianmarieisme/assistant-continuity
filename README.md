@@ -66,7 +66,7 @@ The private repository itself, and the persona it supports, aren't published her
 - These are tested mostly in my own setup. The journal skill works very well on Claude and less reliably on GPT; the conversation skill works especially well on GPT. Your results will vary.
 - Skills don't always trigger on their own, especially `feedback-or-criticism`, since criticism shows up in endless forms. Invoking them manually is reliable; automatic triggering is something I'm still working on.
 - Dreaming is manual and still being calibrated. Modules for external activities and goal extraction are planned.
-- These are prompts and protocols, not software. The automated version of this memory system is [PragmAlma](https://github.com/darianmarieisme/pragmalma), which is in progress.
+- These are prompts and protocols, not software. The automated version of this memory system is [PragmAlma](https://github.com/darianmarieisme/pragm-alma-public), which is in progress.
 
 ## Credits
 
